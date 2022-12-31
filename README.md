@@ -48,7 +48,7 @@ int main(int argc, char** argv){
   return 0;
 }
 ```
-E2. Set point 
+E2. Set point in map
 ```c++
 
 #include <ros/ros.h>
