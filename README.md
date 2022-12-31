@@ -4,7 +4,7 @@ study more :
 >
 > 2. http://wiki.ros.org/move_base_msgs
 
-Ex1. Set move 1 meter forrward
+Ex1. Set move 1 meter forward
 ```c++
 #include <ros/ros.h>
 #include <move_base_msgs/MoveBaseAction.h>
